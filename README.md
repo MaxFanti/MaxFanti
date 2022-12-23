@@ -1,3 +1,7 @@
+### About me
+---
+Hello and welcome to my GitHub account! My name is Maxim and I am a software developer with experience in C# and Python. In addition to these languages, I also have experience working with React for building web applications. I am particularly interested in artificial intelligence and am always looking for new ways to incorporate it into my projects. On my GitHub account, you will find a variety of projects that showcase my skills and demonstrate my passion for solving problems and creating innovative solutions. Whether you are looking for inspiration or simply want to see what I have been working on, I hope that you will find something of interest here. Thank you for visiting, and feel free to reach out if you have any questions or just want to chat!
+
 ### My OS
 <img src="https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Fedora-323330?style=for-the-badge&logo=fedora&logoColor=white"/>
 
