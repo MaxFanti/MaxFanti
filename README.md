@@ -26,5 +26,3 @@ Hello and welcome to my GitHub account! My name is Maxim and I am a software dev
   + <img src="https://img.shields.io/badge/OpenCV-323330?style=for-the-badge&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-323330?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFanti&theme=dark"/>
