@@ -9,7 +9,7 @@ On my GitHub account, you will find a variety of projects that showcase my skill
 Thank you for taking the time to visit my GitHub account. If you have any questions or would like to learn more about my work, please do not hesitate to reach out. I am always happy to chat with fellow developers and share my passion for building great software.
 
 ### My OS
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Fedora-323330?style=for-the-badge&logo=fedora&logoColor=white"/>
+<img src="https://img.shields.io/badge/mac%20os-323330?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Fedora-323330?style=for-the-badge&logo=fedora&logoColor=white"/>
 
 ### My favorite IDE
 <img src="https://img.shields.io/badge/Colab-323330?style=for-the-badge&logo=googlecolab&color=323330"/> <img src="https://img.shields.io/badge/Jupyter-323330.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
@@ -26,7 +26,7 @@ Thank you for taking the time to visit my GitHub account. If you have any questi
   + <img src="https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-323330?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
 
 + DB
-  + <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-323330?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  + <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-323330?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 + AI
   + <img src="https://img.shields.io/badge/OpenCV-323330?style=for-the-badge&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-323330?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=white"/>
