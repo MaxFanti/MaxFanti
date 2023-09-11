@@ -17,7 +17,7 @@ Thank you for taking the time to visit my GitHub account. If you have any questi
 ### My technology stack
 
 + Main languages
-  + <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  + <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=white"/> 
 
 + WEB
   + <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-323330?style=for-the-badge&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-323330?style=for-the-badge&logo=dotnet&logoColor=white"/> 
